@@ -1,6 +1,6 @@
 // const api_key = "e2fca1cd5c1abbd410f5d8780c11043243a50baf";
-// const api_key = "ee824fdbac6d880a2b41f84730a7fefd63d530bd";
- const api_key ="e2fca1cd5c1abbd410f5d8780c11043243a50baf";
+ const api_key = "ee824fdbac6d880a2b41f84730a7fefd63d530bd";
+// const api_key ="e2fca1cd5c1abbd410f5d8780c11043243a50baf";
 
  const api_url = "https://services.marinetraffic.com/api/etatoport/" + api_key + "?protocol=json&msgtype=extended&v=1";
 
